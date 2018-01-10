@@ -5,17 +5,9 @@
   font-weight: normal;
   font-style: normal;
 }
-@font-face {
-  font-family: 'AXIS';
-  src: url("../fonts/AxisStd-Light.otf");
-}
-@font-face {
-  font-family: 'AXIS-light';
-  src: url("../fonts/AxisStd-UltraLight.otf");
-}
 
 body {
-  font-family: AXIS, Arial, sans-serif;
+  font-family: Arial, sans-serif;
   font-weight: 300;
   font-size: 20px;
   line-height: 1.7;
@@ -50,13 +42,13 @@ p {
 
 h1, h2, h3, h4, h5, h6 {
   color: #000;
-  font-family: AXIS, Arial, sans-serif;
+  font-family: Arial, sans-serif;
   font-weight: 300;
   margin: 0 0 30px 0;
 }
 
 h1, h1 + p {
-  font-family: AXIS-light, Arial, sans-serif;
+  font-family: Arial, sans-serif;
 }
 
 ::-webkit-selection {
@@ -161,7 +153,7 @@ h1, h1 + p {
 }
 .fh5co-section ul li h1 {
   color: #616161;
-  font-family: AXIS, Arial, sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px;
   font-weight: normal;
   line-height: 26px;
@@ -435,7 +427,7 @@ h1, h1 + p {
 .btn {
   margin-right: 4px;
   margin-bottom: 4px;
-  font-family: AXIS, Arial, sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 18px;
   font-weight: 400;
   -webkit-border-radius: 0px;
