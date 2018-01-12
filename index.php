@@ -5,31 +5,18 @@ require_once('PHPMailerAutoload.php');
 if (!preg_match( '/^[a-zA-Z0-9\/]+/', $_SERVER['REQUEST_URI'], $matches)) {
 	throw new Exception( 'Invalid URL' );
 }
-
-var_dump($matches);
-echo '<br>';
-
 $params = explode( '/', $matches[0] );
-
-var_dump($params);
-echo '<br>';
-
 array_shift($params); // 一番最初は絶対、空文字列なのでズラす
 foreach( $params as $key => $t ) {
 	if( $t === '' ) { $params[$key] = ''; continue; }
 	if( !preg_match( '/^[a-zA-Z0-9]+$/', $t ) ) throw new Exception( 'Invalid URL' ); // 有効でない文字の混入
 }
 
-var_dump($params);
-echo '<br>';
-
 $params = array_merge($params); // 連番崩れの修正
 if (count($params) > 1) {
 	header('Location: /');exit;
 }
 
-var_dump($params);
-echo '<br>';
 switch ($params[0]) {
 	case 'event':
 		return RenderEventPage();
