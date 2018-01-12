@@ -106,7 +106,7 @@ function RenderFrontPage(){ ?>
 				<div class="row">
 					<div class="col-md-8 col-md-offset-2 col-sm-12 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-center fh5co-table">
 						<div class="fh5co-intro fh5co-table-cell">
-							<h1 class="text-center">ようこそTECKTECKへ</h1>
+							<h1 class="text-center">こんにちはTECKTECKへ</h1>
 							<p>公認登山&amp;アウトドアサークルTECKTECKの新歓サイトです。</p>
 						</div>
 					</div>
