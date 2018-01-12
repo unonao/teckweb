@@ -1221,7 +1221,7 @@ function RenderContactPage(){ ?>
 function SendMail(){
 	$subject = $_POST['name'] . '(' . $_POST['email'] . ')より｜新歓サイトからの問い合わせ';
 	$body = $_POST['content'];
-	$to = 'teck43rd@gmail.com';
+	$to = 'teck44th@gmail.com';
   $from = 'teckteck.web@gmail.com';
   $pass = 'teckteck';
   $mail = new PHPMailer();
