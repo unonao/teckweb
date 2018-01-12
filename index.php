@@ -5,18 +5,31 @@ require_once('PHPMailerAutoload.php');
 if (!preg_match( '/^[a-zA-Z0-9\/]+/', $_SERVER['REQUEST_URI'], $matches)) {
 	throw new Exception( 'Invalid URL' );
 }
+
+var_dump($matches);
+echo '<br>';
+
 $params = explode( '/', $matches[0] );
-array_shift($params); // 一番最初は絶対、空文字列
+
+var_dump($params);
+echo '<br>';
+
+array_shift($params); // 一番最初は絶対、空文字列なのでズラす
 foreach( $params as $key => $t ) {
 	if( $t === '' ) { $params[$key] = ''; continue; }
 	if( !preg_match( '/^[a-zA-Z0-9]+$/', $t ) ) throw new Exception( 'Invalid URL' ); // 有効でない文字の混入
 }
-$params = array_merge($params); // 連番崩れの修正
 
+var_dump($params);
+echo '<br>';
+
+$params = array_merge($params); // 連番崩れの修正
 if (count($params) > 1) {
 	header('Location: /');exit;
 }
 
+var_dump($params);
+echo '<br>';
 switch ($params[0]) {
 	case 'event':
 		return RenderEventPage();
@@ -1144,8 +1157,8 @@ function RenderContactPage(){ ?>
 						<h2>お問い合わせ</h2>
 						<p>何か聞きたいことがありましたら、掲載されている連絡先のメールアドレスに直接連絡していただくか、こちらのフォームからご連絡くださるようお願いします。担当者がお答えします。</p>
 
-						<p>東京大学インカレアウトドアサークルTECKTECK<br/>2017年度新歓委員</p>
-						<p>teck43rd@gmail.com</p>
+						<p>東京大学インカレアウトドアサークルTECKTECK<br/>2018年度新歓委員</p>
+						<p>teck44th@gmail.com</p>
 					</div>
 					<div class="col-md-6 col-md-push-1">
 						<form action="mail" method="POST">
@@ -1175,7 +1188,7 @@ function RenderContactPage(){ ?>
 			<div class="row">
 				<div class="col-md-4">
 					<h3>TECKTECK新歓ウェブページ</h3>
-					<p>東京大学・お茶の水女子大学・東京女子大学・日本女子大学からなる公認登山&amp;アウトドアサークルTECKTECKの2017年度新歓用ウェブページ</p>
+					<p>東京大学・お茶の水女子大学・東京女子大学・日本女子大学からなる公認登山&amp;アウトドアサークルTECKTECKの2018年度新歓用ウェブページ</p>
 				</div>
 				<div class="col-md-3 col-md-push-1">
 					<h3>リンク</h3>
@@ -1189,13 +1202,13 @@ function RenderContactPage(){ ?>
 					<h3>SNS・連絡先</h3>
 					<ul class="fh5co-social">
 						<li><a href="https://twitter.com/TECKTECK2017"><i class="icon-twitter"></i> <span>Twitter</span></a></li>
-						<li><a href="#"><i class="icon-envelope"></i> <span>teck43rd@gmail.com</span></a></li>
+						<li><a href="#"><i class="icon-envelope"></i> <span>teck44th@gmail.com</span></a></li>
 					</ul>
 				</div>
 			</div>
 			<div class="row">
 				<div class="col-md-12 fh5co-copyright text-center">
-					<p><small>&copy; 2017 TECKTECK. All Rights Reserved. </small></p>
+					<p><small>&copy; 2018 TECKTECK. All Rights Reserved. </small></p>
 				</div>
 			</div>
 		</div>
