@@ -226,7 +226,7 @@ function RenderFrontPage(){ ?>
 								</a>
 							</div>
 							<a href="#">
-								<h1>第1回 新歓お食事会 in 新宿</h1>
+								<h1><s>第1回 新歓お食事会 in 新宿</s></h1>
 							</a>
 						</li>
 
@@ -241,7 +241,7 @@ function RenderFrontPage(){ ?>
 								</a>
 							</div>
 							<a href="#">
-								<h1>第2回 新歓お食事会 in 新宿</h1>
+								<h1><s>第2回 新歓お食事会 in 新宿</s></h1>
 							</a>
 						</li>
 
@@ -256,7 +256,7 @@ function RenderFrontPage(){ ?>
 								</a>
 							</div>
 							<a href="#">
-								<h1>新歓山行 -高尾山・城山-</h1>
+								<h1><s>新歓山行 -高尾山・城山-</s></h1>
 							</a>
 						</li>
 
@@ -271,7 +271,7 @@ function RenderFrontPage(){ ?>
 								</a>
 							</div>
 							<a href="#">
-								<h1>新歓山行 -関八州見晴台-</h1>
+								<h1><s>新歓山行 -関八州見晴台-</s></h1>
 							</a>
 						</li>
 
@@ -286,7 +286,7 @@ function RenderFrontPage(){ ?>
 								</a>
 							</div>
 							<a href="#">
-								<h1>新歓レク -鎌倉・江の島-</h1>
+								<h1><s>新歓レク -鎌倉・江の島-</s></h1>
 							</a>
 						</li>
 
@@ -301,7 +301,7 @@ function RenderFrontPage(){ ?>
 								</a>
 							</div>
 							<a href="#">
-								<h1>新歓山行 予備日 -高尾山・城山-</h1>
+								<h1><s>新歓山行 予備日 -高尾山・城山-</s></h1>
 							</a>
 						</li>
 
@@ -316,7 +316,7 @@ function RenderFrontPage(){ ?>
 								</a>
 							</div>
 							<a href="#">
-								<h1>新歓山行 -高松山-</h1>
+								<h1><s>新歓山行 -高松山-</s></h1>
 							</a>
 						</li>
 
@@ -331,7 +331,7 @@ function RenderFrontPage(){ ?>
 								</a>
 							</div>
 							<a href="#">
-								<h1>新歓キャンプ -奥多摩-</h1>
+								<h1><s>新歓キャンプ -奥多摩-</s></h1>
 							</a>
 						</li>
 					</ul>
