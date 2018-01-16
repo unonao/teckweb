@@ -51,12 +51,12 @@ function RenderFrontPage(){ ?>
   <!-- Facebook and Twitter integration -->
 	<meta property="og:title" content="TECKTECK新歓ウェブページ"/>
 	<meta property="og:image" content=""/>
-	<meta property="og:url" content="http://teckteck43.tk"/>
+	<meta property="og:url" content="http://teckteckweb.tk"/>
 	<meta property="og:site_name" content="TECKTECK新歓ウェブページ"/>
 	<meta property="og:description" content="東京大学・お茶の水女子大学・東京女子大学・日本女子大学からなる公認登山&amp;アウトドアサークルTECKTECKの新歓サイトです。"/>
 	<meta name="twitter:title" content="TECKTECK新歓ウェブページ" />
 	<meta name="twitter:image" content="" />
-	<meta name="twitter:url" content="http://teckteck43.tk" />
+	<meta name="twitter:url" content="http://teckteckweb.tk" />
 	<meta name="twitter:card" content="東京大学・お茶の水女子大学・東京女子大学・日本女子大学からなる公認登山&amp;アウトドアサークルTECKTECKの新歓サイトです。" />
 
 	<!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
@@ -106,7 +106,7 @@ function RenderFrontPage(){ ?>
 				<div class="row">
 					<div class="col-md-8 col-md-offset-2 col-sm-12 col-sm-offset-0 col-xs-12 col-xs-offset-0 text-center fh5co-table">
 						<div class="fh5co-intro fh5co-table-cell">
-							<h1 class="text-center">こんにちはTECKTECKへ</h1>
+							<h1 class="text-center">ようこそTECKTECKへ</h1>
 							<p>公認登山&amp;アウトドアサークルTECKTECKの新歓サイトです。</p>
 						</div>
 					</div>
@@ -118,7 +118,7 @@ function RenderFrontPage(){ ?>
 				<div class="row">
 					<div class="col-md-5">
 						<h2>TECKTECKとは？</h2>
-						<p>TECKTECK（テクテク）は、男子は東京大学、女子はお茶の水女子大学・東京女子大学・日本女子大学（目白キャンパス）の4大学から構成される登山&amp;アウトドアサークルです。<br/>主な活動は、毎週末に行われる山行とレクです。みんなでわいわい山に登ったり、レク企画のイベントを楽しんだりしています。<br/>週末企画の他、夏合宿や山手線一周レク、クリスマスパーティー、スキー合宿など楽しい行事が盛りだくさんなとても楽しいサークルです。</p>
+						<p>TECKTECK（テクテク）は、東京大学・お茶の水女子大学・東京女子大学・日本女子大学（目白キャンパス）の4大学から構成される登山&amp;アウトドアサークルです。<br/>主な活動は、毎週末に行われる山行とレクです。みんなでわいわい山に登ったり、レク企画のイベントを楽しんだりしています。<br/>週末企画の他、夏合宿や山手線一周レク、クリスマスパーティー、スキー合宿など楽しい行事が盛りだくさんなとても楽しいサークルです。</p>
 					</div>
 					<div class="col-md-7">
 						<img src="images/logo.jpg" alt="Free HTML5 by FreeHTML5.co" class="img-responsive">
@@ -347,7 +347,7 @@ function RenderFrontPage(){ ?>
 			<div class="row">
 				<div class="col-md-4">
 					<h3>TECKTECK新歓ウェブページ</h3>
-					<p>東京大学・お茶の水女子大学・東京女子大学・日本女子大学からなる公認インカレアウトドアサークルTECKTECKの2017年度新歓用ウェブページ</p>
+					<p>東京大学・お茶の水女子大学・東京女子大学・日本女子大学からなる公認インカレアウトドアサークルTECKTECKの2018年度新歓用ウェブページ</p>
 				</div>
 				<div class="col-md-3 col-md-push-1">
 					<h3>リンク</h3>
@@ -360,14 +360,14 @@ function RenderFrontPage(){ ?>
 				<div class="col-md-3 col-md-push-1">
 					<h3>SNS・連絡先</h3>
 					<ul class="fh5co-social">
-						<li><a href="https://twitter.com/TECKTECK2017"><i class="icon-twitter"></i> <span>Twitter</span></a></li>
-						<li><a href="#"><i class="icon-envelope"></i> <span>teck43rd@gmail.com</span></a></li>
+						<li><a href="https://twitter.com/TECKTECK2018"><i class="icon-twitter"></i> <span>Twitter</span></a></li>
+						<li><a href="#"><i class="icon-envelope"></i> <span>teck44th@gmail.com</span></a></li>
 					</ul>
 				</div>
 			</div>
 			<div class="row">
 				<div class="col-md-12 fh5co-copyright text-center">
-					<p><small>&copy; 2017 TECKTECK. All Rights Reserved. </small></p>
+					<p><small>&copy; 2018 TECKTECK. All Rights Reserved. </small></p>
 				</div>
 			</div>
 		</div>
@@ -406,12 +406,12 @@ function RenderEventPage(){ ?>
   <!-- Facebook and Twitter integration -->
 	<meta property="og:title" content="私たちの活動｜TECKTECK新歓ウェブページ"/>
 	<meta property="og:image" content=""/>
-	<meta property="og:url" content="http://teckteck43.tk/event"/>
+	<meta property="og:url" content="http://teckteckweb.tk/event"/>
 	<meta property="og:site_name" content="TECKTECK新歓ウェブページ"/>
 	<meta property="og:description" content="東京大学・お茶の水女子大学・東京女子大学・日本女子大学からなる公認登山&amp;アウトドアサークルTECKTECKの活動を紹介するページです。"/>
 	<meta name="twitter:title" content="私たちの活動｜TECKTECK新歓ウェブページ" />
 	<meta name="twitter:image" content="" />
-	<meta name="twitter:url" content="http://teckteck43.tk/event" />
+	<meta name="twitter:url" content="http://teckteckweb.tk/event" />
 	<meta name="twitter:card" content="東京大学・お茶の水女子大学・東京女子大学・日本女子大学からなる公認登山&amp;アウトドアサークルTECKTECKの活動を紹介するページです。" />
 
 	<!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
@@ -884,14 +884,14 @@ function RenderEventPage(){ ?>
 				<div class="col-md-3 col-md-push-1">
 					<h3>SNS・連絡先</h3>
 					<ul class="fh5co-social">
-						<li><a href="https://twitter.com/TECKTECK2017"><i class="icon-twitter"></i> <span>Twitter</span></a></li>
-						<li><a href="#"><i class="icon-envelope"></i> <span>teck43rd@gmail.com</span></a></li>
+						<li><a href="https://twitter.com/TECKTECK2018"><i class="icon-twitter"></i> <span>Twitter</span></a></li>
+						<li><a href="#"><i class="icon-envelope"></i> <span>teck44th@gmail.com</span></a></li>
 					</ul>
 				</div>
 			</div>
 			<div class="row">
 				<div class="col-md-12 fh5co-copyright text-center">
-					<p><small>&copy; 2017 TECKTECK. All Rights Reserved. </small></p>
+					<p><small>&copy; 2018 TECKTECK. All Rights Reserved. </small></p>
 				</div>
 			</div>
 		</div>
@@ -930,12 +930,12 @@ function RenderQandAPage(){ ?>
   <!-- Facebook and Twitter integration -->
 	<meta property="og:title" content="Q&A｜TECKTECK新歓ウェブページ"/>
 	<meta property="og:image" content="images/logo.jpg"/>
-	<meta property="og:url" content="http://teckteck43.tk/qanda"/>
+	<meta property="og:url" content="http://teckteckweb.tk/qanda"/>
 	<meta property="og:site_name" content="TECKTECK新歓ウェブページ"/>
 	<meta property="og:description" content="東京大学・お茶の水女子大学・東京女子大学・日本女子大学からなる公認登山&amp;アウトドアサークルTECKTECKのQ&Aページです。"/>
 	<meta name="twitter:title" content="Q$A｜TECKTECK新歓ウェブページ" />
 	<meta name="twitter:image" content="images/logo.jpg" />
-	<meta name="twitter:url" content="http://teckteck43.tk/qanda" />
+	<meta name="twitter:url" content="http://teckteckweb.tk/qanda" />
 	<meta name="twitter:card" content="東京大学・お茶の水女子大学・東京女子大学・日本女子大学からなる公認登山&amp;アウトドアサークルTECKTECKのQ&Aページです。" />
 
 	<!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
@@ -1029,14 +1029,14 @@ function RenderQandAPage(){ ?>
 				<div class="col-md-3 col-md-push-1">
 					<h3>SNS・連絡先</h3>
 					<ul class="fh5co-social">
-						<li><a href="https://twitter.com/TECKTECK2017"><i class="icon-twitter"></i> <span>Twitter</span></a></li>
-						<li><a href="#"><i class="icon-envelope"></i> <span>teck43rd@gmail.com</span></a></li>
+						<li><a href="https://twitter.com/TECKTECK2018"><i class="icon-twitter"></i> <span>Twitter</span></a></li>
+						<li><a href="#"><i class="icon-envelope"></i> <span>teck44th@gmail.com</span></a></li>
 					</ul>
 				</div>
 			</div>
 			<div class="row">
 				<div class="col-md-12 fh5co-copyright text-center">
-					<p><small>&copy; 2017 TECKTECK. All Rights Reserved. </small></p>
+					<p><small>&copy; 2018 TECKTECK. All Rights Reserved. </small></p>
 				</div>
 			</div>
 		</div>
@@ -1075,12 +1075,12 @@ function RenderContactPage(){ ?>
   <!-- Facebook and Twitter integration -->
 	<meta property="og:title" content="お問い合わせ｜TECKTECK新歓ウェブページ"/>
 	<meta property="og:image" content=""/>
-	<meta property="og:url" content="http://teckteck43.tk/contact"/>
+	<meta property="og:url" content="http://teckteckweb.tk/contact"/>
 	<meta property="og:site_name" content="TECKTECK新歓ウェブページ"/>
 	<meta property="og:description" content="東京大学・お茶の水女子大学・東京女子大学・日本女子大学からなる公認登山&amp;アウトドアサークルTECKTECKのお問い合わせページです。"/>
 	<meta name="twitter:title" content="お問い合わせ｜TECKTECK新歓ウェブページ" />
 	<meta name="twitter:image" content="" />
-	<meta name="twitter:url" content="http://teckteck43.tk/contact" />
+	<meta name="twitter:url" content="http://teckteckweb.tk/contact" />
 	<meta name="twitter:card" content="東京大学・お茶の水女子大学・東京女子大学・日本女子大学からなる公認登山&amp;アウトドアサークルTECKTECKのお問い合わせページです。" />
 
 	<!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
@@ -1188,7 +1188,7 @@ function RenderContactPage(){ ?>
 				<div class="col-md-3 col-md-push-1">
 					<h3>SNS・連絡先</h3>
 					<ul class="fh5co-social">
-						<li><a href="https://twitter.com/TECKTECK2017"><i class="icon-twitter"></i> <span>Twitter</span></a></li>
+						<li><a href="https://twitter.com/TECKTECK2018"><i class="icon-twitter"></i> <span>Twitter</span></a></li>
 						<li><a href="#"><i class="icon-envelope"></i> <span>teck44th@gmail.com</span></a></li>
 					</ul>
 				</div>
