@@ -1223,7 +1223,7 @@ function SendMail(){
 	$body = $_POST['content'];
 	$to = 'teck44th@gmail.com';
   $from = 'teckteck.web@gmail.com';
-  $pass = 'teckteck';
+  $pass = 'efwjW3HnjhJDJGpd';
   $mail = new PHPMailer();
   $mail->isSMTP();
   $mail->CharSet = 'utf-8';
