@@ -23,21 +23,11 @@
 			responsive: true
 		});
 	};
-	var parallax_iPhone = function() {
-		$(window).stellar({
-			horizontalScrolling: false,
-			hideDistantElements: false,
-			responsive: true,
-			scrollProperty: 'transform'
-		});
-	};
 
 	// Document on load.
 	$(function () {
 	    var ua = navigator.userAgent;
-	    if (ua.indexOf('iPhone') > 0 || ua.indexOf('iPod') > 0 || ua.indexOf('Android') > 0 && ua.indexOf('Mobile') > 0) {
-				parallax_iPhone();
-	    } else {
+	    if !((ua.indexOf('iPhone') > 0 || ua.indexOf('iPod') > 0 || ua.indexOf('Android') > 0 && ua.indexOf('Mobile') > 0)) {
 				parallax();
 	    }
 	});
