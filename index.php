@@ -84,7 +84,7 @@ function RenderFrontPage(){ ?>
 	<![endif]-->
 
 	</head>
-	<body>
+	<body id="main">
 
 	<div id="fh5co-wrap">
 		<header id="fh5co-header">
@@ -100,7 +100,7 @@ function RenderFrontPage(){ ?>
 			</div>
 		</header>
 
-		<div class="fh5co-hero" style="background-image: url(images/welcome.jpg);" data-stellar-background-ratio="0.5">
+		<div id="select" style="background-image: url(images/welcome.jpg);" data-stellar-background-ratio="0.5" class="fh5co-hero" >
 			<div class="overlay"></div>
 			<div class="container">
 				<div class="row">

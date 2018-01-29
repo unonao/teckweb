@@ -1,17 +1,17 @@
 ;(function () {
-	
+
 	'use strict';
 
 
 
-	// iPad and iPod detection	
+	// iPad and iPod detection
 	var isiPad = function(){
 		return (navigator.platform.indexOf("iPad") != -1);
 	};
 
 	var isiPhone = function(){
 	    return (
-			(navigator.platform.indexOf("iPhone") != -1) || 
+			(navigator.platform.indexOf("iPhone") != -1) ||
 			(navigator.platform.indexOf("iPod") != -1)
 	    );
 	};
@@ -19,16 +19,17 @@
 	var parallax = function() {
 		$(window).stellar({
 			horizontalScrolling: false,
-			hideDistantElements: false, 
+			hideDistantElements: false,
 			responsive: true
-
 		});
 	};
 
 	// Document on load.
-	$(function(){
-		parallax();
+	$(function () {
+	    var ua = navigator.userAgent;
+	    if (!(ua.indexOf('iPhone') > 0 || ua.indexOf('iPod') > 0 || ua.indexOf('Android') > 0 && ua.indexOf('Mobile') > 0)) {
+				parallax();
+	    }
 	});
-
 
 }());
