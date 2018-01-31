@@ -84,7 +84,7 @@ function RenderFrontPage(){ ?>
 	<![endif]-->
 
 	</head>
-	<body id="main">
+	<body>
 
 	<div id="fh5co-wrap">
 		<header id="fh5co-header">
@@ -100,7 +100,7 @@ function RenderFrontPage(){ ?>
 			</div>
 		</header>
 
-		<div id="select" style="background-image: url(images/welcome.jpg);" data-stellar-background-ratio="0.5" class="fh5co-hero" >
+		<div style="background-image: url(images/welcome.jpg);" data-stellar-background-ratio="0.5" class="fh5co-hero" >
 			<div class="overlay"></div>
 			<div class="container">
 				<div class="row">
@@ -218,7 +218,7 @@ function RenderFrontPage(){ ?>
 						<li class="animated wow fadeInDown" style="visibility: visible; animation-name: fadeInDown;">
 							<div class="media">
 								<div class="date">
-									<span class="day">10</span>
+									<span class="day">未定</span>
 									<span class="month">Apr</span>
 								</div>
 								<a href="#">
@@ -226,14 +226,14 @@ function RenderFrontPage(){ ?>
 								</a>
 							</div>
 							<a href="#">
-								<h1><s>第1回 新歓お食事会 in 新宿</s></h1>
+								<h1>第1回 新歓お食事会</h1>
 							</a>
 						</li>
 
 						<li class="animated wow fadeInDown" data-wow-delay=".2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInDown;">
 							<div class="media">
 								<div class="date">
-									<span class="day">14</span>
+									<span class="day">未定</span>
 									<span class="month">Apr</span>
 								</div>
 								<a href="#">
@@ -241,14 +241,14 @@ function RenderFrontPage(){ ?>
 								</a>
 							</div>
 							<a href="#">
-								<h1><s>第2回 新歓お食事会 in 新宿</s></h1>
+								<h1>第2回 新歓お食事会</h1>
 							</a>
 						</li>
 
 						<li class="animated wow fadeInDown" data-wow-delay=".4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInDown;">
 							<div class="media">
 								<div class="date">
-									<span class="day">16</span>
+									<span class="day">15</span>
 									<span class="month">Apr</span>
 								</div>
 								<a href="#">
@@ -256,14 +256,14 @@ function RenderFrontPage(){ ?>
 								</a>
 							</div>
 							<a href="#">
-								<h1><s>新歓山行 -高尾山・城山-</s></h1>
+								<h1>新歓山行 -陣馬山-</h1>
 							</a>
 						</li>
 
 						<li class="animated wow fadeInDown" data-wow-delay=".6s" style="visibility: visible; animation-delay: 0.6s; animation-name: fadeInDown;">
 							<div class="media">
 								<div class="date">
-									<span class="day">22</span>
+									<span class="day">21</span>
 									<span class="month">Apr</span>
 								</div>
 								<a href="#">
@@ -271,14 +271,14 @@ function RenderFrontPage(){ ?>
 								</a>
 							</div>
 							<a href="#">
-								<h1><s>新歓山行 -関八州見晴台-</s></h1>
+								<h1>新歓山行 --</h1>
 							</a>
 						</li>
 
 						<li class="animated wow fadeInDown" data-wow-delay=".8s" style="visibility: visible; animation-delay: 0.8s; animation-name: fadeInDown;">
 							<div class="media">
 								<div class="date">
-									<span class="day">23</span>
+									<span class="day">22</span>
 									<span class="month">Apr</span>
 								</div>
 								<a href="#">
@@ -286,25 +286,25 @@ function RenderFrontPage(){ ?>
 								</a>
 							</div>
 							<a href="#">
-								<h1><s>新歓レク -鎌倉・江の島-</s></h1>
+								<h1>新歓レク --</h1>
 							</a>
 						</li>
 
 						<li class="animated wow fadeInDown" data-wow-delay="1s" style="visibility: visible; animation-delay: 1s; animation-name: fadeInDown;">
 							<div class="media">
 								<div class="date">
-									<span class="day">30</span>
-									<span class="month">Apr</span>
+									<span class="day">3</span>
+									<span class="month">May</span>
 								</div>
 								<a href="#">
 									<img src="images/takao_sub.jpg" alt=""/>
 								</a>
 							</div>
 							<a href="#">
-								<h1><s>新歓山行 予備日 -高尾山・城山-</s></h1>
+								<h1>新歓山行 予備日 -陣馬山-</h1>
 							</a>
 						</li>
-
+<!--
 						<li class="animated wow fadeInDown" data-wow-delay="1.2s" style="visibility: visible; animation-delay: 1.2s; animation-name: fadeInDown;">
 							<div class="media">
 								<div class="date">
@@ -319,11 +319,11 @@ function RenderFrontPage(){ ?>
 								<h1><s>新歓山行 -高松山-</s></h1>
 							</a>
 						</li>
-
+-->
 						<li class="animated wow fadeInDown" data-wow-delay="1.4s" style="visibility: visible; animation-delay: 1.4s; animation-name: fadeInDown;">
 							<div class="media">
 								<div class="date">
-									<span class="day">6,7</span>
+									<span class="day">5,6</span>
 									<span class="month">May</span>
 								</div>
 								<a href="#">
@@ -331,7 +331,7 @@ function RenderFrontPage(){ ?>
 								</a>
 							</div>
 							<a href="#">
-								<h1><s>新歓キャンプ -奥多摩-</s></h1>
+								<h1>新歓キャンプ -奥多摩-</h1>
 							</a>
 						</li>
 					</ul>
