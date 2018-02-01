@@ -215,7 +215,7 @@ function RenderFrontPage(){ ?>
 			<div class="container">
 
 					<ul class="clearfix">
-						<li class="wow fadeInDown" style="visibility: visible; animation-name: fadeInDown;">
+						<li class="wow fadeInDown" style="visibility: visible;">
 							<div class="media">
 								<div class="date">
 									<span class="day">未定</span>
@@ -230,7 +230,7 @@ function RenderFrontPage(){ ?>
 							</a>
 						</li>
 
-						<li class="wow fadeInDown" data-wow-delay=".2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInDown;">
+						<li class="wow fadeInDown" data-wow-delay=".1s" style="visibility: visible;">
 							<div class="media">
 								<div class="date">
 									<span class="day">未定</span>
@@ -245,7 +245,7 @@ function RenderFrontPage(){ ?>
 							</a>
 						</li>
 
-						<li class="wow fadeInDown" data-wow-delay=".4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInDown;">
+						<li class="wow fadeInDown" data-wow-delay=".2s" style="visibility: visible;">
 							<div class="media">
 								<div class="date">
 									<span class="day">15</span>
@@ -260,7 +260,7 @@ function RenderFrontPage(){ ?>
 							</a>
 						</li>
 
-						<li class="wow fadeInDown" data-wow-delay=".6s" style="visibility: visible; animation-delay: 0.6s; animation-name: fadeInDown;">
+						<li class="wow fadeInDown" data-wow-delay=".3s" style="visibility: visible;">
 							<div class="media">
 								<div class="date">
 									<span class="day">21</span>
@@ -275,7 +275,7 @@ function RenderFrontPage(){ ?>
 							</a>
 						</li>
 
-						<li class="wow fadeInDown" data-wow-delay=".8s" style="visibility: visible; animation-delay: 0.8s; animation-name: fadeInDown;">
+						<li class="wow fadeInDown" data-wow-delay=".4s" style="visibility: visible;">
 							<div class="media">
 								<div class="date">
 									<span class="day">22</span>
@@ -290,7 +290,7 @@ function RenderFrontPage(){ ?>
 							</a>
 						</li>
 
-						<li class="wow fadeInDown" data-wow-delay="1s" style="visibility: visible; animation-delay: 1s; animation-name: fadeInDown;">
+						<li class="wow fadeInDown" data-wow-delay=".5s" style="visibility: visible;">
 							<div class="media">
 								<div class="date">
 									<span class="day">3</span>
@@ -320,7 +320,7 @@ function RenderFrontPage(){ ?>
 							</a>
 						</li>
 -->
-						<li class="wow fadeInDown" data-wow-delay="1.2s" style="visibility: visible; animation-delay: 1.2s; animation-name: fadeInDown;">
+						<li class="wow fadeInDown" data-wow-delay=".6s" style="visibility: visible;">
 							<div class="media">
 								<div class="date">
 									<span class="day">5,6</span>
@@ -478,7 +478,7 @@ function RenderEventPage(){ ?>
 		<div class="fh5co-section">
 			<div class="container">
 				<ul class="clearfix">
-					<li class="wow fadeInDown" style="visibility: visible; animation-name: fadeInDown;">
+					<li class="wow fadeInDown" style="visibility: visible;">
 						<div class="media">
 							<a href="#1">
 								<img src="images/sanko0.jpg" alt=""/>
@@ -489,7 +489,7 @@ function RenderEventPage(){ ?>
 						</a>
 					</li>
 
-					<li class="wow fadeInDown" data-wow-delay=".2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInDown;">
+					<li class="wow fadeInDown" data-wow-delay=".1s" style="visibility: visible;">
 						<div class="media">
 							<a href="#2">
 								<img src="images/recu0.jpg" alt=""/>
@@ -500,7 +500,7 @@ function RenderEventPage(){ ?>
 						</a>
 					</li>
 
-					<li class="wow fadeInDown" data-wow-delay=".4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInDown;">
+					<li class="wow fadeInDown" data-wow-delay=".2s" style="visibility: visible;">
 						<div class="media">
 							<a href="#3">
 								<img src="images/shinkangasshuku0.jpg" alt=""/>
@@ -511,7 +511,7 @@ function RenderEventPage(){ ?>
 						</a>
 					</li>
 
-					<li class="wow fadeInDown" data-wow-delay=".6s" style="visibility: visible; animation-delay: 0.6s; animation-name: fadeInDown;">
+					<li class="wow fadeInDown" data-wow-delay=".3s" style="visibility: visible;">
 						<div class="media">
 							<a href="#4">
 								<img src="images/natsugasshuku0.jpg" alt=""/>
@@ -522,7 +522,7 @@ function RenderEventPage(){ ?>
 						</a>
 					</li>
 
-					<li class="wow fadeInDown" data-wow-delay=".8s" style="visibility: visible; animation-delay: 0.8s; animation-name: fadeInDown;">
+					<li class="wow fadeInDown" data-wow-delay=".4s" style="visibility: visible; ">
 						<div class="media">
 							<a href="#5">
 								<img src="images/natsuyama0.jpg" alt=""/>
@@ -533,7 +533,7 @@ function RenderEventPage(){ ?>
 						</a>
 					</li>
 
-					<li class="wow fadeInDown" data-wow-delay="1s" style="visibility: visible; animation-delay: 1s; animation-name: fadeInDown;">
+					<li class="wow fadeInDown" data-wow-delay=".5s" style="visibility: visible;">
 						<div class="media">
 							<a href="#6">
 								<img src="images/natsurecu0.jpg" alt=""/>
@@ -544,7 +544,7 @@ function RenderEventPage(){ ?>
 						</a>
 					</li>
 
-					<li class="wow fadeInDown" data-wow-delay="1.2s" style="visibility: visible; animation-delay: 1.2s; animation-name: fadeInDown;">
+					<li class="wow fadeInDown" data-wow-delay=".6s" style="visibility: visible;">
 						<div class="media">
 							<a href="#7">
 								<img src="images/yousei0.jpg" alt=""/>
@@ -555,7 +555,7 @@ function RenderEventPage(){ ?>
 						</a>
 					</li>
 
-					<li class="wow fadeInDown" data-wow-delay="1.4s" style="visibility: visible; animation-delay: 1.4s; animation-name: fadeInDown;">
+					<li class="wow fadeInDown" data-wow-delay=".7s" style="visibility: visible;">
 						<div class="media">
 							<a href="#8">
 								<img src="images/yamanote0.jpg" alt=""/>
@@ -566,7 +566,7 @@ function RenderEventPage(){ ?>
 						</a>
 					</li>
 
-					<li class="wow fadeInDown" data-wow-delay="1.6s" style="visibility: visible; animation-delay: 1.6s; animation-name: fadeInDown;">
+					<li class="wow fadeInDown" data-wow-delay=".8s" style="visibility: visible;">
 						<div class="media">
 							<a href="#9">
 								<img src="images/christmas0.jpg" alt=""/>
@@ -577,7 +577,7 @@ function RenderEventPage(){ ?>
 						</a>
 					</li>
 
-					<li class="wow fadeInDown" data-wow-delay="1.8s" style="visibility: visible; animation-delay: 1.8s; animation-name: fadeInDown;">
+					<li class="wow fadeInDown" data-wow-delay=".9s" style="visibility: visible;">
 						<div class="media">
 							<img src="images/ski0.jpg" alt=""/>
 							<a href="#10">
