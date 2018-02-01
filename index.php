@@ -146,7 +146,7 @@ function RenderFrontPage(){ ?>
 
 				<div class="row">
 					<div class="col-md-6">
-						<div class="fh5co-feature animate-box" data-animate-effect="fadeInLeft">
+						<div class="fh5co-feature ">
 							<div class="fh5co-icon">
 								<i class="icon-circle-compass"></i>
 							</div>
@@ -157,7 +157,7 @@ function RenderFrontPage(){ ?>
 						</div>
 					</div>
 					<div class="col-md-6">
-						<div class="fh5co-feature animate-box" data-animate-effect="fadeInLeft">
+						<div class="fh5co-feature " >
 							<div class="fh5co-icon">
 								<i class="icon-basket"></i>
 							</div>
@@ -169,7 +169,7 @@ function RenderFrontPage(){ ?>
 					</div>
 
 					<div class="col-md-6">
-						<div class="fh5co-feature animate-box" data-animate-effect="fadeInLeft">
+						<div class="fh5co-feature " >
 							<div class="fh5co-icon">
 								<i class="icon-gift2"></i>
 							</div>
@@ -180,7 +180,7 @@ function RenderFrontPage(){ ?>
 						</div>
 					</div>
 					<div class="col-md-6">
-						<div class="fh5co-feature animate-box" data-animate-effect="fadeInLeft">
+						<div class="fh5co-feature " >
 							<div class="fh5co-icon">
 								<i class="icon-briefcase2"></i>
 							</div>
@@ -320,7 +320,7 @@ function RenderFrontPage(){ ?>
 							</a>
 						</li>
 -->
-						<li class="wow fadeInDown" data-wow-delay="1.4s" style="visibility: visible; animation-delay: 1.4s; animation-name: fadeInDown;">
+						<li class="wow fadeInDown" data-wow-delay="1.2s" style="visibility: visible; animation-delay: 1.2s; animation-name: fadeInDown;">
 							<div class="media">
 								<div class="date">
 									<span class="day">5,6</span>
