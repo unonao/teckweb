@@ -218,7 +218,7 @@ function RenderFrontPage(){ ?>
 						<li class="wow fadeInDown" style="visibility: visible;">
 							<div class="media">
 								<div class="date">
-									<span class="day">未定</span>
+									<span class="day">9</span>
 									<span class="month">Apr</span>
 								</div>
 								<a href="#">
@@ -233,7 +233,7 @@ function RenderFrontPage(){ ?>
 						<li class="wow fadeInDown" data-wow-delay=".1s" style="visibility: visible;">
 							<div class="media">
 								<div class="date">
-									<span class="day">未定</span>
+									<span class="day">13</span>
 									<span class="month">Apr</span>
 								</div>
 								<a href="#">
@@ -256,7 +256,7 @@ function RenderFrontPage(){ ?>
 								</a>
 							</div>
 							<a href="#">
-								<h1>新歓山行 -陣馬山-</h1>
+								<h1>新歓山行 ―高尾・陣馬―</h1>
 							</a>
 						</li>
 
@@ -271,7 +271,7 @@ function RenderFrontPage(){ ?>
 								</a>
 							</div>
 							<a href="#">
-								<h1>新歓山行 --</h1>
+								<h1>新歓山行 ―奥武蔵・秩父―</h1>
 							</a>
 						</li>
 
@@ -286,29 +286,29 @@ function RenderFrontPage(){ ?>
 								</a>
 							</div>
 							<a href="#">
-								<h1>新歓レク --</h1>
+								<h1>新歓レク ――</h1>
 							</a>
 						</li>
 
 						<li class="wow fadeInDown" data-wow-delay=".5s" style="visibility: visible;">
 							<div class="media">
 								<div class="date">
-									<span class="day">3</span>
-									<span class="month">May</span>
+									<span class="day">29</span>
+									<span class="month">Apr</span>
 								</div>
 								<a href="#">
 									<img src="images/takao_sub.jpg" alt=""/>
 								</a>
 							</div>
 							<a href="#">
-								<h1>新歓山行 予備日 -陣馬山-</h1>
+								<h1>新歓山行 ―丹沢―</h1>
 							</a>
 						</li>
-<!--
-						<li class="wow fadeInDown" data-wow-delay="1.2s" style="visibility: visible; animation-delay: 1.2s; animation-name: fadeInDown;">
+
+						<li class="wow fadeInDown" data-wow-delay=".6s" style="visibility: visible; animation-delay: 1.2s; animation-name: fadeInDown;">
 							<div class="media">
 								<div class="date">
-									<span class="day">4</span>
+									<span class="day">3</span>
 									<span class="month">May</span>
 								</div>
 								<a href="#">
@@ -316,11 +316,11 @@ function RenderFrontPage(){ ?>
 								</a>
 							</div>
 							<a href="#">
-								<h1><s>新歓山行 -高松山-</s></h1>
+								<h1>新歓山行 ―予備日― </h1>
 							</a>
 						</li>
--->
-						<li class="wow fadeInDown" data-wow-delay=".6s" style="visibility: visible;">
+
+						<li class="wow fadeInDown" data-wow-delay=".7s" style="visibility: visible;">
 							<div class="media">
 								<div class="date">
 									<span class="day">5,6</span>
@@ -331,7 +331,7 @@ function RenderFrontPage(){ ?>
 								</a>
 							</div>
 							<a href="#">
-								<h1>新歓キャンプ -奥多摩-</h1>
+								<h1>新歓キャンプ ―奥多摩―</h1>
 							</a>
 						</li>
 					</ul>
