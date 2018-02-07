@@ -878,7 +878,7 @@ function RenderEventPage(){ ?>
 			<div class="row">
 				<div class="col-md-4">
 					<h3>TECKTECK新歓ウェブページ</h3>
-					<p>東京大学・お茶の水女子大学・東京女子大学・日本女子大学からなる公認インカレアウトドアサークルTECKTECKの2017年度新歓用ウェブページ</p>
+					<p>東京大学・お茶の水女子大学・東京女子大学・日本女子大学からなる公認インカレアウトドアサークルTECKTECKの2018年度新歓用ウェブページ</p>
 				</div>
 				<div class="col-md-3 col-md-push-1">
 					<h3>リンク</h3>
@@ -1030,7 +1030,7 @@ function RenderQandAPage(){ ?>
 			<div class="row">
 				<div class="col-md-4">
 					<h3>TECKTECK新歓ウェブページ</h3>
-					<p>東京大学・お茶の水女子大学・東京女子大学・日本女子大学からなる公認インカレアウトドアサークルTECKTECKの2017年度新歓用ウェブページ</p>
+					<p>東京大学・お茶の水女子大学・東京女子大学・日本女子大学からなる公認インカレアウトドアサークルTECKTECKの2018年度新歓用ウェブページ</p>
 				</div>
 				<div class="col-md-3 col-md-push-1">
 					<h3>リンク</h3>
