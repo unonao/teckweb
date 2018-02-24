@@ -226,7 +226,7 @@ function RenderFrontPage(){ ?>
 								</a>
 							</div>
 							<a href="#">
-								<h1>第1回 新歓お食事会</h1>
+								<h1>第1回 新歓お食事会(新宿)</h1>
 							</a>
 						</li>
 
@@ -241,7 +241,7 @@ function RenderFrontPage(){ ?>
 								</a>
 							</div>
 							<a href="#">
-								<h1>第2回 新歓お食事会</h1>
+								<h1>第2回 新歓お食事会(新宿)</h1>
 							</a>
 						</li>
 
@@ -256,7 +256,7 @@ function RenderFrontPage(){ ?>
 								</a>
 							</div>
 							<a href="#">
-								<h1>新歓山行 ―高尾・陣馬―</h1>
+								<h1>新歓山行 ―陣馬山―</h1>
 							</a>
 						</li>
 
@@ -316,7 +316,7 @@ function RenderFrontPage(){ ?>
 								</a>
 							</div>
 							<a href="#">
-								<h1>新歓山行 ―予備日― </h1>
+								<h1>新歓山行 ―陣馬山(予備日)― </h1>
 							</a>
 						</li>
 
