@@ -271,7 +271,7 @@ function RenderFrontPage(){ ?>
 								</a>
 							</div>
 							<a href="#">
-								<h1>新歓山行 ―奥武蔵・秩父―</h1>
+								<h1>新歓山行 ―丸山―</h1>
 							</a>
 						</li>
 
@@ -301,7 +301,7 @@ function RenderFrontPage(){ ?>
 								</a>
 							</div>
 							<a href="#">
-								<h1>新歓山行 ―丹沢―</h1>
+								<h1>新歓山行 ―大野山―</h1>
 							</a>
 						</li>
 
