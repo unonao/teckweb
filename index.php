@@ -60,7 +60,7 @@ function RenderFrontPage(){ ?>
 	<meta name="twitter:card" content="東京大学・お茶の水女子大学・東京女子大学・日本女子大学からなる公認登山&amp;アウトドアサークルTECKTECKの新歓サイトです。" />
 
 	<!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
-	<link rel="shortcut icon" href="favicon.ico">
+	<link rel="shortcut icon" href="/favicon.ico">
 
 	<link href='https://fonts.googleapis.com/css?family=Work+Sans:400,300,600,400italic,700' rel='stylesheet' type='text/css'>
 
@@ -213,7 +213,7 @@ function RenderFrontPage(){ ?>
 
 		<div class="fh5co-section">
 			<div class="container">
-
+					<p>参加希望の方は<a href='contact'>お問い合わせ</a>からご連絡下さい</p>
 					<ul class="clearfix">
 						<li class="wow fadeInDown" style="visibility: visible;">
 							<div class="media">
