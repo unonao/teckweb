@@ -213,7 +213,9 @@ function RenderFrontPage(){ ?>
 
 		<div class="fh5co-section">
 			<div class="container">
-					<p>参加希望の方は<a href='contact'>お問い合わせ</a>からご連絡下さい</p>
+
+					<p class="icon-envelope"> 参加希望の方は<a href='contact'>お問い合わせ</a>からご連絡下さい</p>
+
 					<ul class="clearfix">
 						<li class="wow fadeInDown" style="visibility: visible;">
 							<div class="media">
