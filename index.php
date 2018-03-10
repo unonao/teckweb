@@ -254,7 +254,7 @@ function RenderFrontPage(){ ?>
 									<span class="month">Apr</span>
 								</div>
 								<a href="#">
-									<img src="images/takao.jpg" alt=""/>
+									<img src="images/zinba.jpg" alt=""/>
 								</a>
 							</div>
 							<a href="#">
@@ -269,7 +269,7 @@ function RenderFrontPage(){ ?>
 									<span class="month">Apr</span>
 								</div>
 								<a href="#">
-									<img src="images/sekihasshumiharudai.jpg" alt=""/>
+									<img src="images/maruyama.jpg" alt=""/>
 								</a>
 							</div>
 							<a href="#">
@@ -284,11 +284,11 @@ function RenderFrontPage(){ ?>
 									<span class="month">Apr</span>
 								</div>
 								<a href="#">
-									<img src="images/enoshima.jpg" alt=""/>
+									<img src="images/strawberry.jpg" alt=""/>
 								</a>
 							</div>
 							<a href="#">
-								<h1>新歓レク ――</h1>
+								<h1>新歓レク ―いちご狩り―</h1>
 							</a>
 						</li>
 
