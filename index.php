@@ -121,7 +121,7 @@ function RenderFrontPage(){ ?>
 						<p>TECKTECK（テクテク）は、東京大学・お茶の水女子大学・東京女子大学・日本女子大学（目白キャンパス）の4大学から構成される登山&amp;アウトドアサークルです。<br/>主な活動は、毎週末に行われる山行とレクです。みんなでわいわい山に登ったり、レク企画のイベントを楽しんだりしています。<br/>週末企画の他、夏合宿や山手線一周レク、クリスマスパーティー、スキー合宿など楽しい行事が盛りだくさんなとても楽しいサークルです。</p>
 					</div>
 					<div class="col-md-7">
-						<img src="images/logo.jpg" alt="Free HTML5 by FreeHTML5.co" class="img-responsive">
+						<img src="images/logo.jpg"  class="img-responsive">
 					</div>
 				</div>
 			</div>
