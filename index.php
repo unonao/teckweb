@@ -115,13 +115,21 @@ function RenderFrontPage(){ ?>
 		</div>
 		<div class="fh5co-section">
 			<div class="container">
-				<div class="row">
-					<div class="col-md-5">
+				<div class="row ">
+					<div class="col-md-7">
 						<h2>TECKTECKとは？</h2>
 						<p>TECKTECK（テクテク）は、東京大学・お茶の水女子大学・東京女子大学・日本女子大学（目白キャンパス）の4大学から構成される登山&amp;アウトドアサークルです。<br/>主な活動は、毎週末に行われる山行とレクです。みんなでわいわい山に登ったり、レク企画のイベントを楽しんだりしています。<br/>週末企画の他、夏合宿や山手線一周レク、クリスマスパーティー、スキー合宿など楽しい行事が盛りだくさんなとても楽しいサークルです。</p>
 					</div>
-					<div class="col-md-7">
-						<img src="images/logo.jpg"  class="img-responsive">
+					<div class="col-md-4 col-md-offset-1">
+						<div class="row">
+							<div class="col-mid-12">
+								<img src="images/logo2.png"  class="img-responsive">
+							</div>
+							<br>
+							<div class="col-mid-12">
+								<img src="images/logo.jpg"  class="img-responsive">
+							</div>
+						</div>
 					</div>
 				</div>
 			</div>
@@ -483,7 +491,7 @@ function RenderEventPage(){ ?>
 					<li class="wow fadeInDown" style="visibility: visible;">
 						<div class="media">
 							<a href="#1">
-								<img src="images/sanko0.jpg" alt=""/>
+								<img src="images/sanko0.png" alt=""/>
 							</a>
 						</div>
 						<a href="#1">
@@ -494,7 +502,7 @@ function RenderEventPage(){ ?>
 					<li class="wow fadeInDown" data-wow-delay=".1s" style="visibility: visible;">
 						<div class="media">
 							<a href="#2">
-								<img src="images/recu0.jpg" alt=""/>
+								<img src="images/recu0.png" alt=""/>
 							</a>
 						</div>
 						<a href="#2">
@@ -516,7 +524,7 @@ function RenderEventPage(){ ?>
 					<li class="wow fadeInDown" data-wow-delay=".3s" style="visibility: visible;">
 						<div class="media">
 							<a href="#4">
-								<img src="images/natsugasshuku0.jpg" alt=""/>
+								<img src="images/natsugasshuku0.png" alt=""/>
 							</a>
 						</div>
 						<a href="#4">
@@ -639,7 +647,7 @@ function RenderEventPage(){ ?>
 			<div class="container">
 				<div class="row">
 					<div class="col-md-5 col-md-push-7">
-						<p>TECKTECKは山に登るだけでなく、週末にレク企画を行うこともあります。レクは企画を担当する人が何でも好きなことを計画できる、とっても自由な企画です。<br/>昨年は、横浜レクではカップヌードルミュージアムに行きオリジナルのカップヌードルを作ったり、ウォークラリーをして横浜の名所を巡りました。川越レクではガラス工芸を体験したり、古風な街並みで和菓子などの食べ歩きをしました。<br/>今年はどんなレクがあるでしょうか？楽しみにしておいてくださいね。</p>
+						<p>TECKTECKは山に登るだけでなく、週末にレク企画を行うこともあります。レクは企画を担当する人が何でも好きなことを計画できる、とっても自由な企画です。<br/>昨年は横須賀にある猿島に行ってBBQや散歩をしたり、都内の歴史めぐりをしたり、横浜でアイススケートをしたりシュウマイ工場に行ったりしました。<br/>今年はどんなレクがあるでしょうか？楽しみにしておいてくださいね。</p>
 					</div>
 					<div class="col-md-7 col-md-pull-5">
 						<img src="images/recu2.jpg" alt="Free HTML5 by FreeHTML5.co" class="img-responsive">
@@ -705,7 +713,7 @@ function RenderEventPage(){ ?>
 		</div>
 
 
-		<div id="5" class="fh5co-parallax" style="background-image: url(images/natsuyama1.jpg);" data-stellar-background-ratio="0.5">
+		<div id="5" class="fh5co-parallax" style="background-image: url(images/natuyama1.jpg);" data-stellar-background-ratio="0.5">
 			<div class="overlay"></div>
 			<div class="container">
 				<div class="row">
