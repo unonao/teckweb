@@ -261,11 +261,11 @@ function RenderFrontPage(){ ?>
 									<span class="day">15</span>
 									<span class="month">Apr</span>
 								</div>
-								<a href="#">
+								<a href="pdf/zinba.pdf" target="_blank">
 									<img src="images/zinba.jpg" alt=""/>
 								</a>
 							</div>
-							<a href="#">
+							<a href="pdf/zinba.pdf" target="_blank">
 								<h1>新歓山行 ―陣馬山―</h1>
 							</a>
 						</li>
@@ -276,11 +276,11 @@ function RenderFrontPage(){ ?>
 									<span class="day">21</span>
 									<span class="month">Apr</span>
 								</div>
-								<a href="#">
+								<a href="pdf/maruyama.pdf" target="_blank">
 									<img src="images/maruyama.jpg" alt=""/>
 								</a>
 							</div>
-							<a href="#">
+							<a href="pdf/maruyama.pdf" target="_blank">
 								<h1>新歓山行 ―丸山―</h1>
 							</a>
 						</li>
@@ -321,11 +321,11 @@ function RenderFrontPage(){ ?>
 									<span class="day">3</span>
 									<span class="month">May</span>
 								</div>
-								<a href="#">
+								<a href="pdf/zinba.pdf" target="_blank">
 									<img src="images/takamatsu.jpg" alt=""/>
 								</a>
 							</div>
-							<a href="#">
+							<a href="pdf/zinba.pdf" target="_blank">
 								<h1>新歓山行 ―陣馬山(予備日)― </h1>
 							</a>
 						</li>
