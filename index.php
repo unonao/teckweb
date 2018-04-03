@@ -223,6 +223,7 @@ function RenderFrontPage(){ ?>
 			<div class="container">
 
 					<p class="icon-envelope"> 参加希望の方は<a href='contact'>お問い合わせ</a>からご連絡下さい</p>
+					<p>画像をクリックすると詳細ページに飛びます。お食事会の費用は一回500円です！</p>
 
 					<ul class="clearfix">
 						<li class="wow fadeInDown" style="visibility: visible;">
@@ -231,11 +232,11 @@ function RenderFrontPage(){ ?>
 									<span class="day">9</span>
 									<span class="month">Apr</span>
 								</div>
-								<a href="#">
+								<a href=" http://www.lapausa.jp/shop/shop1365.html" target="_blank">
 									<img src="images/meetup1.jpg" alt=""/>
 								</a>
 							</div>
-							<a href="#">
+							<a href=" http://www.lapausa.jp/shop/shop1365.html" target="_blank">
 								<h1>第1回 新歓お食事会(新宿)</h1>
 							</a>
 						</li>
@@ -246,11 +247,11 @@ function RenderFrontPage(){ ?>
 									<span class="day">13</span>
 									<span class="month">Apr</span>
 								</div>
-								<a href="#">
+								<a href="https://tabelog.com/tokyo/A1304/A130401/13000933/" target="_blank">
 									<img src="images/meetup2.jpg" alt=""/>
 								</a>
 							</div>
-							<a href="#">
+							<a href="https://tabelog.com/tokyo/A1304/A130401/13000933/" target="_blank">
 								<h1>第2回 新歓お食事会(新宿)</h1>
 							</a>
 						</li>
