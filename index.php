@@ -291,11 +291,11 @@ function RenderFrontPage(){ ?>
 									<span class="day">22</span>
 									<span class="month">Apr</span>
 								</div>
-								<a href="#">
+								<a href="pdf/recu.pdf" target="_blank">
 									<img src="images/strawberry.jpg" alt=""/>
 								</a>
 							</div>
-							<a href="#">
+							<a href="pdf/recu.pdf" target="_blank">
 								<h1>新歓レク ―いちご狩り―</h1>
 							</a>
 						</li>
