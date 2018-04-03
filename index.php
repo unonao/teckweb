@@ -307,11 +307,11 @@ function RenderFrontPage(){ ?>
 									<span class="day">29</span>
 									<span class="month">Apr</span>
 								</div>
-								<a href="#">
+								<a href="pdf/oono.pdf" target="_blank">
 									<img src="images/takao_sub.jpg" alt=""/>
 								</a>
 							</div>
-							<a href="#">
+							<a href="pdf/oono.pdf" target="_blank">
 								<h1>新歓山行 ―大野山―</h1>
 							</a>
 						</li>
