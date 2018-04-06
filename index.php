@@ -337,11 +337,11 @@ function RenderFrontPage(){ ?>
 									<span class="day">5,6</span>
 									<span class="month">May</span>
 								</div>
-								<a href="#">
+								<a href="pdf/camp.pdf" target="_blank">
 									<img src="images/camp.jpg" alt=""/>
 								</a>
 							</div>
-							<a href="#">
+							<a href="pdf/camp.pdf" target="_blank">
 								<h1>新歓キャンプ ―奥多摩―</h1>
 							</a>
 						</li>
