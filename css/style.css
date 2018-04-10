@@ -679,7 +679,7 @@ dl{
 }
 dl dd,
 dl dt{
-     text-indent: -2.6em;
+     text-indent: -1.6em;
      padding: 0 20px 0px 68px;
 }
 dl dt{
@@ -707,4 +707,13 @@ dl dd:first-letter{
      color: #b33c42;
 }
 
+/* for home */
+.event{
+	font-size:18px;
+	 font-family: Arial, sans-serif;
+}
+.fh5co-section form{
+	padding-top: 60px;
+	padding-bottom: 30px;
+}
 /*# sourceMappingURL=style.css.map */

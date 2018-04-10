@@ -223,7 +223,7 @@ function RenderFrontPage(){ ?>
 			<div class="container">
 
 					<p class="icon-envelope"> 参加希望の方は<a href='contact'>お問い合わせ</a>からご連絡下さい</p>
-					<p>画像をクリックすると詳細ページに飛びます。お食事会の費用は一回500円です！</p>
+					<p class="event">画像をクリックすると詳細ページに飛びます。お食事会の費用は一回500円です！</p>
 
 					<ul class="clearfix">
 						<li class="wow fadeInDown" style="visibility: visible;">
@@ -292,11 +292,11 @@ function RenderFrontPage(){ ?>
 									<span class="day">22</span>
 									<span class="month">Apr</span>
 								</div>
-								<a href="pdf/recu.pdf" target="_blank">
+								<a href="pdf/rec.pdf" target="_blank">
 									<img src="images/strawberry.jpg" alt=""/>
 								</a>
 							</div>
-							<a href="pdf/recu.pdf" target="_blank">
+							<a href="pdf/rec.pdf" target="_blank">
 								<h1>新歓レク ―いちご狩り―</h1>
 							</a>
 						</li>
