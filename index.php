@@ -372,7 +372,7 @@ function RenderFrontPage(){ ?>
 					<h3>SNS・連絡先</h3>
 					<ul class="fh5co-social">
 						<li><a href="https://twitter.com/TECKTECK2018"><i class="icon-twitter"></i> <span>Twitter</span></a></li>
-						<li><a href="#"><i class="icon-envelope"></i> <span>teck44th@gmail.com</span></a></li>
+						<li><a href="#"><i class="icon-envelope"></i> <span>teck2.44th@gmail.com</span></a></li>
 					</ul>
 				</div>
 			</div>
@@ -903,7 +903,7 @@ function RenderEventPage(){ ?>
 					<h3>SNS・連絡先</h3>
 					<ul class="fh5co-social">
 						<li><a href="https://twitter.com/TECKTECK2018"><i class="icon-twitter"></i> <span>Twitter</span></a></li>
-						<li><a href="#"><i class="icon-envelope"></i> <span>teck44th@gmail.com</span></a></li>
+						<li><a href="#"><i class="icon-envelope"></i> <span>teck2.44th@gmail.com</span></a></li>
 					</ul>
 				</div>
 			</div>
@@ -1058,7 +1058,7 @@ function RenderQandAPage(){ ?>
 					<h3>SNS・連絡先</h3>
 					<ul class="fh5co-social">
 						<li><a href="https://twitter.com/TECKTECK2018"><i class="icon-twitter"></i> <span>Twitter</span></a></li>
-						<li><a href="#"><i class="icon-envelope"></i> <span>teck44th@gmail.com</span></a></li>
+						<li><a href="#"><i class="icon-envelope"></i> <span>teck2.44th@gmail.com</span></a></li>
 					</ul>
 				</div>
 			</div>
@@ -1175,7 +1175,7 @@ function RenderContactPage(){ ?>
 						<p>企画への参加希望の場合は、「大学名・学年・学部学科・氏名」を明記して頂ければ、メーリングリストに登録してこちらからお誘いのメールを流します。</p>
 
 						<p>東京大学インカレアウトドアサークルTECKTECK<br/>2018年度新歓委員</p>
-						<p>teck44th@gmail.com</p>
+						<p>teck2.44th@gmail.com</p>
 					</div>
 					<div class="col-md-6 col-md-push-1">
 						<form action="mail" method="POST">
@@ -1219,7 +1219,7 @@ function RenderContactPage(){ ?>
 					<h3>SNS・連絡先</h3>
 					<ul class="fh5co-social">
 						<li><a href="https://twitter.com/TECKTECK2018"><i class="icon-twitter"></i> <span>Twitter</span></a></li>
-						<li><a href="#"><i class="icon-envelope"></i> <span>teck44th@gmail.com</span></a></li>
+						<li><a href="#"><i class="icon-envelope"></i> <span>teck2.44th@gmail.com</span></a></li>
 					</ul>
 				</div>
 			</div>
